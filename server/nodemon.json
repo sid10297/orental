@@ -1,0 +1,3 @@
+{
+  "exec": "tsx src/index.ts"
+}

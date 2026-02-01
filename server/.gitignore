@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Prisma
+prisma/dev.db
+
+# Docker
+.dockerignore
